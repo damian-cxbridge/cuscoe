@@ -7,6 +7,7 @@ copyright: "© CX Bridge Ltd. Content licensed CC BY-NC-SA 4.0. CUSCOE® is a re
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.sections
     - content.action.edit

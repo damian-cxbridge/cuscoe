@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use or refer to CUSCOE, please cite it as below."
+title: "CUSCOE operating model"
+type: dataset
+version: "1.0.0"
+date-released: "2026-11-01"
+license: CC-BY-NC-SA-4.0
+url: "https://github.com/damian-cxbridge/cuscoe"
+repository-code: "https://github.com/damian-cxbridge/cuscoe"
+abstract: >-
+  CUSCOE is an operating model for professional and managed services
+  organisations delivering AI as a service. It places a single governed
+  Portfolio at the centre of the business, pools technical staff into
+  competency-based Centres of Excellence, and gives Customer Success
+  ownership of the customer after signature.
+keywords:
+  - operating model
+  - artificial intelligence
+  - centres of excellence
+  - customer success
+  - knowledge management
+  - professional services
+  - managed services
+authors:
+  - family-names: Copeland
+    given-names: Damian
+    orcid: "https://orcid.org/0000-0001-7115-2448"
+    affiliation: "CX Bridge Ltd"
+references:
+  - type: conference-paper
+    title: "Designing a Customer-Centric Operating Model Framework for AI-Readiness"
+    authors:
+      - family-names: Copeland
+        given-names: Damian
+        orcid: "https://orcid.org/0000-0001-7115-2448"
+      - family-names: Mogford
+        given-names: Kathy
+    year: 2026
+    collection-title: "Proceedings of the 18th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management - Volume 2: KMIS"
+    volume: 2
+    start: 697
+    end: 706
+    isbn: "978-989-758-868-6"
+    issn: "2184-3228"
+    doi: "10.5220/0015343800004985"
+    publisher:
+      name: SciTePress

@@ -1,0 +1,35 @@
+site_name: CUSCOE operating model
+site_description: An operating model for professional and managed services organisations delivering AI as a service.
+site_author: Damian Copeland, CX Bridge Ltd
+site_url: https://damian-cxbridge.github.io/cuscoe/
+repo_url: https://github.com/damian-cxbridge/cuscoe
+copyright: "© CX Bridge Ltd. Content licensed CC BY-NC-SA 4.0. CUSCOE® is a registered trademark of CX Bridge Ltd."
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - content.action.edit
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Overview: index.md
+  - The model:
+      - Portfolio: portfolio.md
+      - Centres of Excellence: centres-of-excellence.md
+      - Customer Success: customer-success.md
+      - Sales: sales.md
+      - Pricing model: pricing-model.md
+      - Finance: finance.md
+      - Legal and compliance: legal-and-compliance.md
+      - IT: it.md
+      - Board: board.md
+  - Design principles: principles.md
+  - About and citation: about.md
+  - Permissions: permissions.md
+  - Trademark: trademark.md
+  - Changelog: changelog.md

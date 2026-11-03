@@ -16,11 +16,13 @@ This site is the maintained version of the model and may go beyond the published
 
 ## How to cite the model
 
-Cite the version you used. Each release is archived on Zenodo with its own DOI, and a concept DOI always points to the latest version.
+To cite the model in general, use the concept DOI, which always points to the latest release:
 
-> Copeland, D. (2026). *CUSCOE Operating Model* (Version 1.0). CX Bridge Ltd. DOI: [10.5281/zenodo.23924959](https://doi.org/10.5281/zenodo.23924959)
+> Copeland, D. (2026). *CUSCOE Operating Model*. CX Bridge Ltd. DOI: [10.5281/zenodo.23924959](https://doi.org/10.5281/zenodo.23924959)
 
-The repository also includes a CITATION.cff file, so GitHub's "Cite this repository" button gives the reference in APA and BibTeX formats.
+To cite a specific release, use that release's own DOI, listed under Versions on the [Zenodo record](https://doi.org/10.5281/zenodo.23924959), and include the version number.
+
+The repository also includes a CITATION.cff file, so the "Cite this repository" button on the [GitHub repository](https://github.com/damian-cxbridge/cuscoe) gives the reference in APA and BibTeX formats.
 
 ## Licence
 

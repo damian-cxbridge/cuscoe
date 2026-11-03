@@ -1,4 +1,5 @@
 # CUSCOE operating model
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23924959.svg)](https://doi.org/10.5281/zenodo.23924959)
 
 CUSCOE is an operating model for professional and managed services organisations delivering AI as a service. It puts a single governed Portfolio at the centre of the business, pools technical people into competency-based Centres of Excellence, and gives Customer Success ownership of the customer after signature.
 

@@ -14,7 +14,7 @@ theme:
 markdown_extensions:
   - tables
   - toc:
-      permalink: true
+      permalink: false
 
 nav:
   - Overview: index.md

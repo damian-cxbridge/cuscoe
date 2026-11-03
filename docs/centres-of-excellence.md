@@ -60,4 +60,4 @@ Delivering to the customer is a direct centre function. Commercial contact is no
 
 ## Evidence status
 
-These five principles were evaluated against an illustrative scenario in the KMIS 2026 paper and have been implemented in a live organisation. The live results have not yet been published.
+These five principles were evaluated against an illustrative scenario in the KMIS 2026 paper. They have not yet been tested in a published live study.

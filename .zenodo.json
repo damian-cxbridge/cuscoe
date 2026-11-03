@@ -1,0 +1,39 @@
+{
+  "title": "CUSCOE operating model",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "<p>CUSCOE is an operating model for professional and managed services organisations delivering AI as a service. It places a single governed Portfolio at the centre of the business, pools technical staff into competency-based Centres of Excellence, and gives Customer Success ownership of the customer after signature.</p><p>The model was presented at KMIS 2026 (Copeland and Mogford, 2026, doi:10.5220/0015343800004985). With thanks to Kathy Mogford for her review and amendments to the model.</p><p>CUSCOE is a registered trademark of CX Bridge Ltd. Organisations may implement the model internally without a commercial licence; see docs/permissions.md.</p>",
+  "creators": [
+    {
+      "name": "Copeland, Damian",
+      "affiliation": "CX Bridge Ltd",
+      "orcid": "0000-0001-7115-2448"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "CX Bridge Ltd",
+      "type": "RightsHolder"
+    }
+  ],
+  "license": "cc-by-nc-sa-4.0",
+  "access_right": "open",
+  "keywords": [
+    "operating model",
+    "artificial intelligence",
+    "centres of excellence",
+    "customer success",
+    "knowledge management",
+    "professional services",
+    "managed services"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.5220/0015343800004985",
+      "relation": "isDescribedBy",
+      "resource_type": "publication-conferencepaper",
+      "scheme": "doi"
+    }
+  ]
+}

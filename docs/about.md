@@ -18,7 +18,7 @@ This site is the maintained version of the model and may go beyond the published
 
 Cite the version you used. Each release is archived on Zenodo with its own DOI, and a concept DOI always points to the latest version.
 
-> Copeland, D. (2026). *CUSCOE Operating Model* (Version 1.0). CX Bridge Ltd. DOI: ZENODO-DOI
+> Copeland, D. (2026). *CUSCOE Operating Model* (Version 1.0). CX Bridge Ltd. DOI: [10.5281/zenodo.23924959](https://doi.org/10.5281/zenodo.23924959)
 
 The repository also includes a CITATION.cff file, so GitHub's "Cite this repository" button gives the reference in APA and BibTeX formats.
 

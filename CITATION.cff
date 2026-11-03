@@ -6,7 +6,7 @@ version: "1.0.0"
 date-released: "2026-11-01"
 license: CC-BY-NC-SA-4.0
 doi: "10.5281/zenodo.23924959"
-url: "https://github.com/damian-cxbridge/cuscoe"
+url: "https://cuscoe.cxbridge.co.uk/"
 repository-code: "https://github.com/damian-cxbridge/cuscoe"
 abstract: >-
   CUSCOE is an operating model for professional and managed services

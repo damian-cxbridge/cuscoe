@@ -36,4 +36,4 @@ CX Bridge also grants an additional permission for organisations to implement CU
 
 ## Contact
 
-Commercial licensing, accreditation and questions about the live implementation: damian@cxbridge.co.uk.
+Commercial licensing, accreditation and questions about the live implementation: damian@cxbridge.co.uk. For how CX Bridge applies the model in client work, see [CUSCOE at CX Bridge](https://cxbridge.co.uk/cuscoe).

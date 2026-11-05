@@ -36,3 +36,7 @@ Two rules hold the model together. If either is broken routinely, the model stop
 ## Evidence status
 
 The model is published as it stands, with each part labelled by how far it has been tested. All eleven principles have been evaluated against an illustrative scenario. None has yet been tested in a published live study. See [Design principles](principles.md) for the detail and [About](about.md) for how to cite the model.
+
+## Applying the model
+
+CX Bridge applies CUSCOE in two engagements: a CX and AI diagnostic, and Tollgate, which tests an acquirer's operating model before a deal is signed. See [how CX Bridge applies CUSCOE](https://cxbridge.co.uk/cuscoe).

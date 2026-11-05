@@ -8,6 +8,16 @@ Etienne Wenger's work on communities of practice showed that knowledge moves thr
 
 The term Centre of Excellence usually describes a small expert group whose job is to share its knowledge across the organisation. CUSCOE takes that idea further and makes every service delivery function a Centre of Excellence, with five principles designed to keep the social learning of a community of practice alive inside a formal structure.
 
+## How this differs from an AI Centre of Excellence
+
+Much of the current writing on AI operating models uses Centre of Excellence to mean something narrower: a central AI team that runs pilots and drives adoption, usually described as an early stage an organisation grows out of as AI moves into the business units. CUSCOE does not use the term that way.
+
+- **Every delivery function is a centre.** There is no separate AI team. AI capability, meaning model selection, evaluation, prompt engineering and optimisation, sits inside the centres that deliver the services AI is part of.
+- **The centres are permanent.** A production AI service needs continuous monitoring, evaluation and tuning, so the skill is still needed once adoption is done. The centres are where that skill lives, serving pre-sales, projects, support and optimisation from the same pool.
+- **The centres deliver but do not hold the commercial relationship.** Centre members work directly with customers, but scope, pricing and delivery-standard disputes go through [Customer Success](customer-success.md).
+
+An AI Centre of Excellence is a way of introducing AI. A CUSCOE Centre of Excellence is how a services business organises the people who deliver its services, with or without AI.
+
 ## Principle 1: Competency-based membership
 
 Membership of a centre is earned by demonstrating the minimum technical level the centre requires. The Centre of Excellence Lead sets the assessment for the domain. Anyone who fails receives targeted training and is retested. A second failure means they are not a member of that centre.
